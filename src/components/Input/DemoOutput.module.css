@@ -1,0 +1,9 @@
+.demo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    width: auto;
+    max-width: 50rem;
+    height: 50px;
+    vertical-align: middle;
+  }
